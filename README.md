@@ -16,3 +16,8 @@ Fix-forward mentaility
 1. Identity and user management
 1. Email
 1. Document storage
+
+## Similar Projects
+
+- DoD Big Bang https://repo1.dso.mil/platform-one/big-bang
+- Startpack https://github.com/tldr-devops/startpack
